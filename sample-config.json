@@ -1,0 +1,6 @@
+{
+    "uid": "BOT USER ID",
+    "cid": "CHANNEL ID TO COUNT MESSAGES OF",
+    "token-path": "PATH TO BOT TOKEN FILE",
+    "wotw-path": "PATH TO QUOTES FILE"
+}
